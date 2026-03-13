@@ -1,8 +1,5 @@
-# supermarket-sales-analysis
-Excel analysis of 1,000 supermarket transactions across 3 branches in Myanmar — covering branch performance, customer demographics, payment methods and product line insights.
 # Supermarket Sales Analysis — Myanmar 2019
-
-Analysis of 1,000 supermarket transactions across 3 branches in Myanmar.
+Excel analysis of 1,000 supermarket transactions across 3 branches in Myanmar — covering branch performance, customer demographics, payment methods and product line insights.
 
 ## Tools Used
 - Microsoft Excel
